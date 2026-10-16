@@ -1,0 +1,5 @@
+minta_adatok/
+__pycache__/
+build/
+dist/
+*.spec
