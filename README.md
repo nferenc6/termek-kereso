@@ -2,7 +2,7 @@
 
 **[Magyar](#magyar) · [English](#english)**
 
-![Termék kereső](docs/kepernyo_5005.png)
+![Termék kereső](kepernyo_5005.png)
 
 ---
 
@@ -124,4 +124,4 @@ All data (products, customers, files) is **fictional**.
 
 ---
 
-![Egy termék két gépen / one product on two machines](docs/kepernyo_1042.png)
+![Egy termék két gépen / one product on two machines](kepernyo_1042.png)
