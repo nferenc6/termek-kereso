@@ -1,0 +1,39 @@
+{
+  "_megjegyzes": "Relatív útvonalak a kereso.pyw mappájához képest. Hálózati meghajtó is megadható, pl. \"P:\\\\Adatlapok\".",
+
+  "excel": "minta_adatok/termekek.xlsx",
+  "munkalap": "Termékek",
+  "kereso_fejlecek": ["termék"],
+  "valtozat_fejlec": "változat",
+  "csoport_felirat": "Ügyfél",
+  "kihagyott_mappak": ["archív", "archiv"],
+
+  "forrasok": [
+    {
+      "nev": "Termékadatlap (PDF)",
+      "mappa": "minta_adatok/adatlapok",
+      "kiterjesztesek": [".pdf"],
+      "csoport": true
+    },
+    {
+      "nev": "3D modell (STEP)",
+      "mappa": "minta_adatok/3d_modellek",
+      "kiterjesztesek": [".stp", ".step"],
+      "csoport": false
+    }
+  ],
+
+  "programok": {
+    "nev": "Gépi program",
+    "gep_fejlec": "gép",
+    "kod_fejlec": "programkód",
+    "elotag": "P",
+    "kiterjesztesek": [".prg", ".nc", ".mod"],
+    "gepek": {
+      "1": {"nev": "Gép-1", "mappak": ["minta_adatok/programok/Gep-1"]},
+      "2": {"nev": "Gép-2", "mappak": ["minta_adatok/programok/Gep-2"]},
+      "3": {"nev": "Gép-3", "mappak": ["minta_adatok/programok/Gep-3"]},
+      "4": {"nev": "Gép-4", "mappak": ["minta_adatok/programok/Gep-4", "minta_adatok/programok_mentes/Gep-4"]}
+    }
+  }
+}
